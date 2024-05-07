@@ -1,0 +1,15 @@
+h3 {
+    color: rgb(0, 255, 34);
+    font-size: 64px;
+}
+.fa-house {
+    color: red;
+    font-size: 64px;
+}
+.fa-house:hover {
+    color: rgb(21, 255, 0);
+}
+.fa-youtube {
+    font-size: 75px;
+    color: red;
+}
